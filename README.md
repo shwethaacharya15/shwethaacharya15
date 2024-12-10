@@ -1,14 +1,30 @@
 <h1 align="center">Hi 👋, I'm Shwetha Acharya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h3 align="center">A Passionate Learner in Software Testing</h3>
+
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwethaacharya15&label=Profile%20views&color=0e75b6&style=flat" alt="shwethaacharya15" /> </p>
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Manual Testing** and **API Testing**  
+- 🔭 I’m eager to explore **Automation Testing**  
+- 💼 I’m working as a **Quality Analyst Trainee** at **QAonCloud**
 
-- 📫 How to reach me **shwethaacharya829@gmail.com**
+- 📫 How to Reach Me: **shwethaacharya829@gmail.com**
 
-- 📄 Know about my experiences [https://in.docworkspace.com/d/sIKqP7an0AcDSqq8G)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/achar_shweth" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" alt="twitter" /></a>
+<a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+<a href="https://github.com/shwethaacharya15" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="github" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://swagger.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
