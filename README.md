@@ -9,7 +9,7 @@
 - 🧠 Explored **Python Flask** for backend testing  
 - 🔍 Skilled in **Manual Testing, API Testing (Postman), Cypress, WordPress**  
 - 🛠 Building automation skills across tools like **Selenium, Appium, GitHub Actions, Jenkins**  
-- 💼 Working as a **Quality Analyst Trainee at QAonCloud**  
+- 💼 Working as a **Junior QA Engineer at QAonCloud**  
 - 🎯 Goal: Become a full-stack test automation specialist with black-belt level skill in Playwright  
 - 📫 Reach me at: **shwethaacharya829@gmail.com**
 
