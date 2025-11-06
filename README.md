@@ -34,10 +34,10 @@
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
-<a href="https://www.cypress.io/" target="_blank"><img src="https://www.svgrepo.com/show/354202/cypress.svg" alt="cypress" width="40" height="40"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="LINK_TO_CYPRESS_SVG" alt="cypress" width="40" height="40"/></a>
 <a href="https://appium.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://rest-assured.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/restassured/restassured-icon.svg" alt="restassured" width="40" height="40"/></a>
+<a href="https://rest-assured.io/" target="_blank"><img src="LINK_TO_REST_ASSURED_SVG" alt="restassured" width="40" height="40"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
