@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shwetha Acharya</h1>
 <h3 align="center">💥 Junior QA Engineer | Learning Full-Stack API & Automation Testing</h3>
 
-<img align="right" alt="testing" width="300" src="https://media.giphy.com/media/26xBwdIuRJiAiRTde/giphy.gif">
+<img align="right" alt="QA Testing" width="300" src="https://media.giphy.com/media/26xBwdIuRJiAiRTde/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shwethaacharya15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -62,9 +62,9 @@
 
 ---
 
-### 📝 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shwethaacharya15&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shwethaacharya15&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwethaacharya15&theme=radical" />
 </p>
 
@@ -73,9 +73,9 @@
 ### 💡 My Testing Philosophy
 > “Testing is not about finding bugs; it’s about **understanding systems, validating business logic, and making sure users succeed**.”
 
-- I don’t just click “Send” in Postman — I trace **async workflows, queues, DB persistence, and failure scenarios**.  
-- 200 OK is **just the beginning**, not proof of success.  
-- I document **real failure scenarios**, test retries, and validate **system-wide consistency**.
+- I trace **async workflows, queues, DB persistence, and failure scenarios**.  
+- HTTP 200 OK is **just the start**, not proof of success.  
+- I document **real failure scenarios**, retries, and system-wide consistency.  
 
 ---
 
@@ -88,4 +88,4 @@
 
 ---
 
-⭐ **“Stop trusting status codes. Start validating business success.”**  
+⭐ **“Stop trusting status codes. Start validating business success.”**
