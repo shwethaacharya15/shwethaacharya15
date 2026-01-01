@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shwetha Acharya</h1>
 <h3 align="center">💥 Junior QA Engineer | Learning Full-Stack API & Automation Testing</h3>
 
-<img align="right" alt="QA Testing" width="300" src="https://media.giphy.com/media/26xBwdIuRJiAiRTde/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shwethaacharya15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
