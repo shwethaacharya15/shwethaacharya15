@@ -64,9 +64,29 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shwethaacharya15&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwethaacharya15&theme=radical" />
+<img width="48%"
+     src="https://github-readme-stats.vercel.app/api
+     ?username=shwethaacharya15
+     &show_icons=true
+     &hide=stars,forks
+     &count_private=true
+     &theme=radical" />
+
+ <img width="48%"
+     src="https://github-readme-streak-stats.herokuapp.com/
+     ?user=shwethaacharya15
+     &theme=radical
+     &fire=FF5733
+     &ring=FF5733
+     &currStreakLabel=FF5733" />
+
 </p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph
+?username=shwethaacharya15
+&theme=react-dark
+&hide_border=true" />
 
 ---
 
